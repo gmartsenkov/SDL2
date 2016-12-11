@@ -1,0 +1,43 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "67A9231E242EBFAC77B6FDA314C5C4E4DF0B86D2" : 9223372036854775807,
+    "453A7546363B689A1196790BE6668B76AA63C326" : 9223372036854775807,
+    "1205A6EC59AB01B5DE080D3111568E0BF3A5B207" : 9223372036854775807,
+    "E4ABCA3CE0242488A8893C8CFA1D02A70B21E1B9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B7E819A3-6678-4796-87A5-CB2BDDDFA5F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "67A9231E242EBFAC77B6FDA314C5C4E4DF0B86D2" : "Ruby\/ruby_c_playground\/",
+    "453A7546363B689A1196790BE6668B76AA63C326" : "..\/Ruby\/ruby",
+    "1205A6EC59AB01B5DE080D3111568E0BF3A5B207" : "..\/Ruby\/cmi_reporting",
+    "E4ABCA3CE0242488A8893C8CFA1D02A70B21E1B9" : "..\/Ruby\/lighthouse"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SDL2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SDL2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:VF19CMI\/cmi_reporting.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1205A6EC59AB01B5DE080D3111568E0BF3A5B207"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ruby\/ruby.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "453A7546363B689A1196790BE6668B76AA63C326"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gmartsenkov\/ruby_c_playground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67A9231E242EBFAC77B6FDA314C5C4E4DF0B86D2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:VF19CMI\/lighthouse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E4ABCA3CE0242488A8893C8CFA1D02A70B21E1B9"
+    }
+  ]
+}
